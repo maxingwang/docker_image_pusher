@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.5
+registry.k8s.io/ingress-nginx/controller:v1.14.1
