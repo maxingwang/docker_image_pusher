@@ -7,5 +7,5 @@ xhofe/alist:latest
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.5
 registry.k8s.io/ingress-nginx/controller:v1.14.1
 nginx:1.15-alpine
-metrics-scraper:v1.0.4
-dashboard:v2.0.3
+kubernetesui/metrics-scraper:v1.0.4
+kubernetesui/dashboard:v2.0.3
