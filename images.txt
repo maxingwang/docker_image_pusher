@@ -1,1 +1,1 @@
-gitea/gitea:latest
+docker.io/traefik:v3.6.5
