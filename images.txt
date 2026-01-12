@@ -1,2 +1,2 @@
-labring/kubernetes:v1.27.7
-labring/calico:v3.27.4
+labring/kubernetes:v1.34.1
+labring/calico:v3.27.0
