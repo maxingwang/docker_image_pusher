@@ -1,1 +1,2 @@
-docker.io/traefik:v3.6.5
+labring/kubernetes:v1.27.7
+labring/calico:v3.27.4
