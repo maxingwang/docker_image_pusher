@@ -1,1 +1,1 @@
-jkroepke/kube-webhook-certgen:1.7.4
+docker.io/grafana/grafana:12.3.1
