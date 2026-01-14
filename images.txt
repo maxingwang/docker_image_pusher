@@ -1,2 +1,1 @@
-labring/kubernetes:v1.34.1
-labring/calico:v3.27.0
+jkroepke/kube-webhook-certgen:1.7.4
