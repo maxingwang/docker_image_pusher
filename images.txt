@@ -1,1 +1,2 @@
-eclipse-temurin:11-jdk-alpine
+quay.io/argoproj/argocd:v3.2.5
+
