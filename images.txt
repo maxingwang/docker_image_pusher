@@ -1,2 +1,2 @@
-quay.io/argoproj/argocd:v3.2.5
+docker.io/istio/pilot:1.28.3
 
