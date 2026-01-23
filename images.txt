@@ -1,2 +1,2 @@
-docker.io/quay.io/kiali/kiali:v2.17
+quay.io/kiali/kiali:v2.17
 docker.io/jaegertracing/all-in-one:1.70.0
