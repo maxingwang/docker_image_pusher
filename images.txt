@@ -1,4 +1,4 @@
-rabbitmq:4.8.0-management-alpine
-elasticsearch:7.6.1
+rabbitmq:3.13-management-alpine
+elasticsearch:7.17.24
 redis:5.0-alpine
 mysql:8.0
