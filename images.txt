@@ -1,2 +1,4 @@
-quay.io/kiali/kiali:v2.17
-docker.io/jaegertracing/all-in-one:1.70.0
+rabbitmq:4.8.0-management-alpine
+elasticsearch:7.6.1
+redis:5.0-alpine
+mysql:8.0
