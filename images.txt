@@ -1,2 +1,1 @@
-docker:24.0-cli
-maven:3.8-openjdk-11
+docker:24.0-dind
