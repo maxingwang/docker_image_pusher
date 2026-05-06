@@ -1,4 +1,4 @@
-langgenius/dify-sandbox:0.2.12
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:0.1.1-local
-semitechnologies/weaviate:1.19.0
+mysql:8.0
+kibana:8.19.10
+qdrant/qdrant:v1.16
+ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
