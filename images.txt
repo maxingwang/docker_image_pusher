@@ -1,4 +1,1 @@
-mysql:8.0
-kibana:8.19.10
-qdrant/qdrant:v1.16
-ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
+elasticsearch:8.19.10
