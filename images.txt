@@ -1,1 +1,1 @@
-zilliz/attu:latest
+mongo:7
